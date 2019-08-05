@@ -1,0 +1,21 @@
+# About Eclipse
+*.iml
+/.settings/
+/bin/
+.classpath
+.project
+
+# BlueJ files
+*.ctxt
+ 
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+ 
+# macOS
+.DS_Store
+ 
+# Package Files
+*.war
+=======
+# Compiled class file
+*.class
